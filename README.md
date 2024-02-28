@@ -1,2 +1,1 @@
-# PrepCourse-Henry-2024
-prep curso henry 2024 - modulo 2 prueba
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
